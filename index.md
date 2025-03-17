@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Ainoha MERLIN-HOARAU
+Elève ingénieur en 1ère année de préparation
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Ainoha.Merlin-Hoarau[at]unilasalle.fr](mailto:ainoha.merlin-hoarau@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
