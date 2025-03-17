@@ -8,18 +8,14 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 20XX`
+**Unilasalle, Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en 1ère année de préparation
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac Mathématiques-Physique/Chimie, mention Assez Bien, Lycée Pierre Laramée, Saint-Quentin 02
 
 ## Expériences
 
@@ -38,16 +34,12 @@ _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : niveau à préciser (résultat d’examen)
+* LV2 Espagnol : niveau à préciser (résultat d’examen)
 
 Informatique
 * Logiciels maitrisés
