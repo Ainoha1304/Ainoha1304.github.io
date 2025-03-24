@@ -13,7 +13,6 @@ download_cv: assets/docs/Template_CV.pdf
 
 Elève ingénieur en 1ère année de préparation
 * Cours : Mathématiques, Physique, Electrocinétique, Informatique, Développement de soi
-`2024`
 * Diplome : Bac Mathématiques-Physique/Chimie, mention Assez Bien, Lycée Pierre Laramée, Saint-Quentin 02
 
 ## Expériences
