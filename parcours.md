@@ -8,7 +8,7 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`2024 – 20XX`
+`2024 – 20..`
 **Unilasalle, Amiens**
 
 Elève ingénieur en 1ère année de préparation
@@ -26,8 +26,7 @@ _Réalisé en équipe de 02 étudiants
 * Réalisation du projet a la découpe laser et imprimante 3D
 * Présentation du projet
 
-
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` **Bleu Ciel, Evenementiel, PME, Saint-Quentin 02100**
 
 _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
@@ -38,22 +37,19 @@ _Stage – intitulé du poste_
 ## Compétences
 
 Langues
-* LV1 Anglais : niveau à préciser (résultat d’examen)
-* LV2 Espagnol : niveau à préciser (résultat d’examen)
+* LV1 Anglais : niveau B1
+* LV2 Espagnol : niveau A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Libre Office
+* Onshape
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Permis B
+* Formation PSC1
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+Loisirs 
+* Sport (Football)
+* réseaux sociaux
