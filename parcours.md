@@ -14,16 +14,17 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en 1ère année de préparation
 * Cours : Mathématiques, Physique, Electrocinétique, Informatique, Développement de soi
 `2024`
-Bac Mathématiques-Physique/Chimie, mention Assez Bien, Lycée Pierre Laramée, Saint-Quentin 02
+* Diplome : Bac Mathématiques-Physique/Chimie, mention Assez Bien, Lycée Pierre Laramée, Saint-Quentin 02
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – Réalisation d'une boite de rangement**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 02 étudiants
+* Brainstorming en équipe
+* Conception 3D
+* Réalisation du projet a la découpe laser et imprimante 3D
+* Présentation du projet
 
 
 `20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
