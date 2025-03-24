@@ -12,8 +12,7 @@ download_cv: assets/docs/Template_CV.pdf
 **Unilasalle, Amiens**
 
 Elève ingénieur en 1ère année de préparation
-* Cours : préciser les cours en phase avec le poste visé
-
+* Cours : Mathématiques, Physique, Electrocinétique, Informatique, Développement de soi
 `2024`
 Bac Mathématiques-Physique/Chimie, mention Assez Bien, Lycée Pierre Laramée, Saint-Quentin 02
 
